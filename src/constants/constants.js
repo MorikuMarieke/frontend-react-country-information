@@ -1,0 +1,1 @@
+export const API_BASE = 'https://restcountries.com/v3.1/independent';
